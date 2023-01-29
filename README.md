@@ -1,9 +1,9 @@
 ### Hi there 👋
 # Halo semua! 
 
-Perkenalkan nama saya **Nicko Yan Utama**.\
+Perkenalkan nama saya **Nicko Yan Utama**.  
 
-Saya Lulusan **Teknik Informatika Universitas Brawijaya**.\
+Saya Lulusan **Teknik Informatika Universitas Brawijaya**.  
 
 <!--
 **nickoyanutama/nickoyanutama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
