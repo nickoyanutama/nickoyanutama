@@ -2,7 +2,6 @@
 # Halo semua! 
 
 Perkenalkan nama saya **Nicko Yan Utama**.  
-
 Saya Lulusan **Teknik Informatika Universitas Brawijaya**.  
 
 <!--
